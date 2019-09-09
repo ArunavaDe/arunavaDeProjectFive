@@ -22,18 +22,17 @@ class App extends Component {
     const response = await apiCall.json();
     this.setState({recipeArray: response.hits});
     this.setState({more: response.more});
-    // console.log(this.state.recipeArray);
 
   }
 
   checkString = () => {
     if(this.state.more === false){
       return(
-        <h2>Nothing found</h2>
+        <h2 className="statusText">nothing found</h2>
       )
     } else if (this.state.more === true){
       return (
-        <h2>Here is the stuff</h2>
+        <h2 className="statusText">your results</h2>
       )
     }
   }
@@ -46,7 +45,7 @@ class App extends Component {
 
         <h1 className="headLine" id="#top">recipe search</h1>
         <Form getRecipe={this.getRecipe}/>
-        
+
         {this.checkString()}
   
         { this.state.recipeArray.map((item) => {
