@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projectFiveNew/static/css/main.5e1f2c01.chunk.css",
-    "main.js": "/projectFiveNew/static/js/main.737e9bd9.chunk.js",
-    "main.js.map": "/projectFiveNew/static/js/main.737e9bd9.chunk.js.map",
-    "runtime~main.js": "/projectFiveNew/static/js/runtime~main.6956db1b.js",
-    "runtime~main.js.map": "/projectFiveNew/static/js/runtime~main.6956db1b.js.map",
-    "static/js/2.217cbff7.chunk.js": "/projectFiveNew/static/js/2.217cbff7.chunk.js",
-    "static/js/2.217cbff7.chunk.js.map": "/projectFiveNew/static/js/2.217cbff7.chunk.js.map",
-    "index.html": "/projectFiveNew/index.html",
-    "precache-manifest.5c8cd8385b2b22017c8e20dbb47ad105.js": "/projectFiveNew/precache-manifest.5c8cd8385b2b22017c8e20dbb47ad105.js",
-    "service-worker.js": "/projectFiveNew/service-worker.js",
-    "static/css/main.5e1f2c01.chunk.css.map": "/projectFiveNew/static/css/main.5e1f2c01.chunk.css.map"
+    "main.css": "/arunavDeProjectFive/static/css/main.5e1f2c01.chunk.css",
+    "main.js": "/arunavDeProjectFive/static/js/main.f27db36d.chunk.js",
+    "main.js.map": "/arunavDeProjectFive/static/js/main.f27db36d.chunk.js.map",
+    "runtime~main.js": "/arunavDeProjectFive/static/js/runtime~main.c15462eb.js",
+    "runtime~main.js.map": "/arunavDeProjectFive/static/js/runtime~main.c15462eb.js.map",
+    "static/js/2.217cbff7.chunk.js": "/arunavDeProjectFive/static/js/2.217cbff7.chunk.js",
+    "static/js/2.217cbff7.chunk.js.map": "/arunavDeProjectFive/static/js/2.217cbff7.chunk.js.map",
+    "index.html": "/arunavDeProjectFive/index.html",
+    "precache-manifest.4cf22807e0bc41820177e650f01be6f7.js": "/arunavDeProjectFive/precache-manifest.4cf22807e0bc41820177e650f01be6f7.js",
+    "service-worker.js": "/arunavDeProjectFive/service-worker.js",
+    "static/css/main.5e1f2c01.chunk.css.map": "/arunavDeProjectFive/static/css/main.5e1f2c01.chunk.css.map"
   }
 }
